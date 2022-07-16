@@ -10,6 +10,8 @@ that act on it such that no other portion of the code may access the data except
 
 # Object
   - An object is any entity that has a state and behavior
+  - a basic unit of Object-Oriented Programming that represents real-life entities.
+  -  A typical Java program creates many objects, which as you know, interact by invoking methods
   
  ## An object has three characteristics:
     - State: represents the data (value) of an object.
