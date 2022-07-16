@@ -1,4 +1,4 @@
-# JavaObjects-And-Class
+# OOP Object-Oriented Programming
 
 As the name implies, Object-Oriented Programming (OOPs) refers to programming languages 
 that use objects as a major source to accomplish what is to happen in the code. 
