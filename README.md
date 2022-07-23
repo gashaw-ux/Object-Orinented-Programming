@@ -25,6 +25,10 @@ that act on it such that no other portion of the code may access the data except
 
     States: idle, first gear, etc
     Behaviors: braking, accelerating, etc.
+    
+ A class is a blueprint which you use to create objects. An object is an instance of a class - it's a concrete 'thing' that you made using a specific class. So, 'object' and 'instance' are the same thing, but the word 'instance' indicates the relationship of an object to its class.
+
+This is easy to understand if you look at an example. For example, suppose you have a class House. Your own house is an object and is an instance of class House. Your sister's house is another object (another instance of class House).
 
   
   
