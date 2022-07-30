@@ -36,6 +36,8 @@ that act on it such that no other portion of the code may access the data except
 
 This is easy to understand if you look at an example. For example, suppose you have a class House. Your own house is an object and is an instance of class House. Your sister's house is another object (another instance of class House).
 
+![My Remote Image](https://www.freecodecamp.org/news/content/images/2020/04/cookie-cutter.jpg)
+
   
   
 
