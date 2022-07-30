@@ -21,6 +21,12 @@ that act on it such that no other portion of the code may access the data except
     - Identity: An object identity is typically implemented via a unique ID. The value of the ID is not visible to the external user. 
       However, it is used internally by the JVM to identify each object uniquely.
       
+ ## An object consists of:
+
+    A unique identity: Each object has a unique identity, even if the state is identical to that of another object.
+    State/Properties/Attributes: State tells us how the object looks or what properties it has.
+    Behavior: Behavior tells us what the object does.
+      
  ## For example, a bicycle is an object. It has
 
     States: idle, first gear, etc
