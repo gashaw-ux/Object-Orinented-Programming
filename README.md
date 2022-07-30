@@ -38,7 +38,21 @@ This is easy to understand if you look at an example. For example, suppose you h
 
 ![My Remote Image](https://www.freecodecamp.org/news/content/images/2020/04/cookie-cutter.jpg)
 
-  
+Create a class in Java
+
+We can create a class in Java using the class keyword. For example,
+
+```
+class ClassName {
+  // fields
+  // methods
+}
+```
+Here, fields (variables) and methods represent the state and behavior of the object respectively.
+
+    fields are used to store data
+    methods are used to perform some operations
+
   
 
 
